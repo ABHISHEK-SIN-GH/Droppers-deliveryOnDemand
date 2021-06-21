@@ -1,7 +1,7 @@
 <?php
 
-$keyId = 'rzp_test_PlEYg3Ud7QmRGo';
-$keySecret = 'xELzeSakL6gWRrNM2Of1wTBl';
+$keyId = 'KeyId';
+$keySecret = 'KeySecret';
 $displayCurrency = 'INR';
 
 //These should be commented out in production
